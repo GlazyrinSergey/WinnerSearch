@@ -1,19 +1,0 @@
-
-~
-java:S1104"\Make participantsList a static final constant or non-public and provide accessors if needed.(Ê Á¿úÿÿÿÿ8‹ñ…¤²2
-r
-java:S1104"PMake list a static final constant or non-public and provide accessors if needed.(ÒÑÒÌıÿÿÿÿ8ñ…¤²2
-X
-java:S1444"6Make this "public static participantsList" field final(Ê Á¿úÿÿÿÿ8ñ…¤²2
-L
-java:S1444"*Make this "public static list" field final(ÒÑÒÌıÿÿÿÿ8ñ…¤²2
-?
-java:S2386"Make this member "protected".(Ê Á¿úÿÿÿÿ8¯ù…¤²2
-f
-java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8Æü…¤²2
-J
-java:S1659!"(Declare "chooseFile" on a separate line.(ÿº¥êıÿÿÿÿ8­ş…¤²2
-£
-java:S11863"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òşüÿÿÿÿ8 ÿ…¤²2
-S
-java:S2696B"6Make the enclosing method "static" or remove this set.(ë™¨‘8ı€†¤²2
